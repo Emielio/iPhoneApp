@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		178A08541A0A701700B7F3BC /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 178A08531A0A701700B7F3BC /* SecondViewController.m */; };
 		178E09801A0846350009E4CF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 178E097F1A0846350009E4CF /* main.m */; };
 		178E09831A0846350009E4CF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 178E09821A0846350009E4CF /* AppDelegate.m */; };
 		178E09861A0846350009E4CF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 178E09851A0846350009E4CF /* ViewController.m */; };
@@ -27,6 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		178A08521A0A701700B7F3BC /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		178A08531A0A701700B7F3BC /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		178E097A1A0846350009E4CF /* iPhoneApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iPhoneApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		178E097E1A0846350009E4CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		178E097F1A0846350009E4CF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -86,6 +89,8 @@
 				178E09841A0846350009E4CF /* ViewController.h */,
 				178E09851A0846350009E4CF /* ViewController.m */,
 				178E09871A0846350009E4CF /* Main.storyboard */,
+				178A08521A0A701700B7F3BC /* SecondViewController.h */,
+				178A08531A0A701700B7F3BC /* SecondViewController.m */,
 				178E098A1A0846350009E4CF /* Images.xcassets */,
 				178E098C1A0846350009E4CF /* LaunchScreen.xib */,
 				178E097D1A0846350009E4CF /* Supporting Files */,
@@ -219,6 +224,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				178A08541A0A701700B7F3BC /* SecondViewController.m in Sources */,
 				178E09861A0846350009E4CF /* ViewController.m in Sources */,
 				178E09831A0846350009E4CF /* AppDelegate.m in Sources */,
 				178E09801A0846350009E4CF /* main.m in Sources */,
@@ -412,6 +418,7 @@
 				178E099F1A0846350009E4CF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		178E09A01A0846350009E4CF /* Build configuration list for PBXNativeTarget "iPhoneAppTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +427,7 @@
 				178E09A21A0846350009E4CF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
