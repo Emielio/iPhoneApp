@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>79F3B65D-60B6-4918-8971-5BCEDE42D669</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iPhoneApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D0622A8D3C3CCD8DF2628D73A97B873B39352966</key>
+		<string>https://github.com/Emielio/iPhoneApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iPhoneApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D0622A8D3C3CCD8DF2628D73A97B873B39352966</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Emielio/iPhoneApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D0622A8D3C3CCD8DF2628D73A97B873B39352966</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D0622A8D3C3CCD8DF2628D73A97B873B39352966</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iPhoneApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
