@@ -10,7 +10,7 @@
 
 @interface SecondViewController : UIViewController
 @property (weak, nonatomic) IBOutlet UITextField *nameField;
-@property (retain, nonatomic) IBOutlet UILabel *greetLabel;
+@property (weak, nonatomic) IBOutlet UILabel *greetLabel;
 
 - (IBAction)greetButtonPressed:(UIButton *)sender;
 
