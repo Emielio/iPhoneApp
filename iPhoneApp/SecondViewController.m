@@ -37,10 +37,7 @@
 */
 
 - (IBAction)greetButtonPressed:(UIButton *)sender {
-    [self greet];
-}
-
-- (void)greet {
+    [self.nameField resignFirstResponder];
     NSString *text = @"Hello, ";
     NSString *name = self.nameField.text;
     
@@ -56,6 +53,6 @@
     }
     
     self.greetLabel.text = greeting;
-    
 }
+
 @end
